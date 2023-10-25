@@ -77,7 +77,7 @@ function Home() {
 
 </div>
 
-<div className='cards mt-24'>
+<div className='cards flex mt-24'>
 
 <div className="containerbox mx-4 mb-5">
     <div className="user-image">
