@@ -47,19 +47,16 @@ function Home() {
   Enginerring
   </button>
 </div>
-    
     <div className='aboutus my-16'>
       <div className='left'>
-         <h2 className=' font-bold title text-center text-2xl title'>Unlock Your  career potential</h2>
+         <h2 className='font-bold title text-center text-2xl title'>Unlock Your  career potential</h2>
          <p>
-         Are you ready to take your career to new heights? Look no further than Job-Arena, where we connect talented professionals with their dream job opportunities. Our platform simplifies your job search, helping you discover, apply for, and secure the perfect position. Whether you're a recent graduate or a seasoned pro, Job-Arena is your trusted partner on the path to career success.
+         Are you ready to take your career to new heights? Look no further than Job-Arena, where we connect talented professionals with their dream job opportunities. Our platform simplifies your job search, helping you discover, apply for, and secure the perfect position. Whether you are a recent graduate or a seasoned pro, Job-Arena is your trusted partner on the path to career success.
          </p>
       </div>
       <div className='right'>
-     {/* <img src=".\assets\job.jpg" alt="" /> */}
       </div>
     </div>
-
 <div className='companies'>
   <h1 className='text-center text-black  font-bold'>Top companies hiring Now</h1>
   <button className='card rounded-md  border-solid shadow-lg shadow-black-500/50 w-2/12 h-24 mx-3'>
